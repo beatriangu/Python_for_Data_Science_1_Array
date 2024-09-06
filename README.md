@@ -38,6 +38,7 @@ You have some restriction operators for each function: (you can only use those g
 • blue: =
 
 • grey: =, /
+
 The evaluation errors have been fixed except for the EOF, which I have decided to leave as PASS.
 <p align="left">
   <img src="https://github.com/beatriangu/Python_for_Data_Science_1_Array/blob/main/Screenshot%20from%202024-09-06%2018-02-47.png?raw=true" alt="Miniatura" width="200"/>
